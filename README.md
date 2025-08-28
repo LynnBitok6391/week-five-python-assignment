@@ -2,7 +2,7 @@
 
 This assignment consists of two parts: designing a class with inheritance and exploring polymorphism with animals.
 
-## Part 1: Smartphone Class Design 🏗️
+## Part 1: Smartphone Class Design 
 
 ### Description
 This part of the assignment involves creating a `Smartphone` base class and a `GamingPhone` inherited class to demonstrate object-oriented programming concepts like attributes, methods, constructors, and inheritance.
@@ -31,12 +31,12 @@ This part of the assignment involves creating a `Smartphone` base class and a `G
 ### Example Output
 ```
 Brand: Samsung, Model: Galaxy S24, Storage: 256GB
-Samsung Galaxy S24 is calling 123456789 📞
+Samsung Galaxy S24 is calling 123456789 
 Gaming Phone - Asus ROG Phone 7, 512GB, Cooling: Liquid Cooling
-Asus ROG Phone 7 is calling 987654321 📞
+Asus ROG Phone 7 is calling 987654321 
 ```
 
-## Part 2: Polymorphism Challenge 🎭
+## Part 2: Polymorphism Challenge 
 
 ### Description
 This part demonstrates polymorphism by creating animal classes that all have a `move()` method, but each implements it differently.
@@ -46,13 +46,13 @@ This part demonstrates polymorphism by creating animal classes that all have a `
    - **Method**: `move()` with a generic message
 
 2. **Dog (Derived Class)**
-   - **Overridden Method**: `move()` to print "Dog runs on four legs 🐕"
+   - **Overridden Method**: `move()` to print "Dog runs on four legs "
 
 3. **Bird (Derived Class)**
-   - **Overridden Method**: `move()` to print "Bird flies in the sky 🕊️"
+   - **Overridden Method**: `move()` to print "Bird flies in the sky 🕊"
 
 4. **Fish (Derived Class)**
-   - **Overridden Method**: `move()` to print "Fish swims in water 🐟"
+   - **Overridden Method**: `move()` to print "Fish swims in water "
 
 ### How to Run
 1. Ensure you have Python installed on your system.
@@ -66,9 +66,9 @@ This part demonstrates polymorphism by creating animal classes that all have a `
 
 ### Example Output
 ```
-Dog runs on four legs 🐕
-Bird flies in the sky 🕊️
-Fish swims in water 🐟
+Dog runs on four legs 
+Bird flies in the sky 🕊
+Fish swims in water 
 ```
 
 ## Key Concepts Demonstrated
@@ -77,3 +77,4 @@ Fish swims in water 🐟
 - **Inheritance**: Creating a derived class that inherits from a base class
 - **Polymorphism**: Different classes implementing the same method in different ways
 - **Method Overriding**: A derived class providing a specific implementation of a method already defined in its base class
+
